@@ -1,0 +1,1 @@
+This sections includes string files and Google maps API files. 
